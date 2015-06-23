@@ -1,0 +1,9 @@
+CREATE TABLE studentlist (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(30),
+surname VARCHAR(30),
+sex VARCHAR(50),
+age VARCHAR(50),
+groups VARCHAR(50),
+faculty VARCHAR(50)
+)
